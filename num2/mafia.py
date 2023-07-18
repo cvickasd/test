@@ -5,7 +5,7 @@ import time
 
 TOKEN = '6149703984:AAERkO3wEQOxCDSO30sm-mYORbQL6TBox_Q'
 bot = TeleBot(TOKEN)
-rols = ['мафия','мирный(лох)']
+rols = ['мафия','мирный()']
 players = {}
 points_players = {}
 count_players=0
